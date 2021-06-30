@@ -1,2 +1,2 @@
 # Console.Example.BoxingTypes
-Console.Example.BoxingTypes
+Example of boxing types
