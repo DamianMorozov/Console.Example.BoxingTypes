@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example.BoxingTypes", "Example.BoxingTypes\Example.BoxingTypes.csproj", "{69907F50-A1FE-488E-BA5E-345D7166C9A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F98CD3B8-E16C-46F5-A1EA-DC42124AA0C3}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69907F50-A1FE-488E-BA5E-345D7166C9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69907F50-A1FE-488E-BA5E-345D7166C9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69907F50-A1FE-488E-BA5E-345D7166C9A2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{69907F50-A1FE-488E-BA5E-345D7166C9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69907F50-A1FE-488E-BA5E-345D7166C9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69907F50-A1FE-488E-BA5E-345D7166C9A2}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DEBD3A8-00B8-4553-AB15-F8A634E9AEA4}
+	EndGlobalSection
+EndGlobal
